@@ -1,0 +1,16 @@
+Hello, my name is brunswick2, and i am here today to talk about the theoretical situation when someone makes a discord grabber specifically for guilded,
+
+Guilded uses a different API system then discord, and alot of discord grabbers uses discord webhooks, because of this people can stop the scam by sending messages through it and deleting it.
+
+What if someone makes a grabber specifically for guilded and spreads the rat through discord?
+
+Alot of people have discord webhook spammers, that not made for guilded, so the rat would be unstoppable because of the spammers not supporting the guilded API system
+
+even if there is a spammer made for guilded, guilded webhooks cant say @everyone, and if they use a bot for the grabber, you cant even sign into it to stop the scam, because there is no app to, the DiscordBotClient only supports discord bot tokens.
+
+Alot of known grabbers use discord bots, (pysilon) (discordbotstealer) etc.
+
+so if guilded grabbers use a bot token, they are 10 times more safer then a webhook because its impossible to nuke the scam.
+
+
+Thank you for reading this, if you have any information that i left out or isnt true, please add brunswick2 on discord, thank you.
